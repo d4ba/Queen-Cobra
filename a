@@ -23,6 +23,8 @@ Frame.BorderSizePixel = 0
 Frame.ClipsDescendants = true
 Frame.Position = UDim2.new(0.256995589, 0, 0.302460194, 0)
 Frame.Size = UDim2.new(0, 327, 0, 181)
+Frame.Active = true
+Frame.Draggable = true
 
 UICorner.Parent = Frame
 
